@@ -3,8 +3,7 @@
 Data Structures and Algorithms
 
 
-In the same files or different scripts code out the following functions, 
-push to a github repo and submit it for grading. 
+In this assessment all the respective questions will be answered in their own files, however the questions will be outlined below.
 
 Stacks:
 
